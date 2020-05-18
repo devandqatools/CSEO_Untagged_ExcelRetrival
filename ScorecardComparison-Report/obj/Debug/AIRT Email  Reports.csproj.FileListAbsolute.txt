@@ -1,0 +1,8 @@
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\bin\Debug\ScorecardComparison-Report.exe.config
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\bin\Debug\ScorecardComparison-Report.exe
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\bin\Debug\ScorecardComparison-Report.pdb
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\obj\Debug\AIRT Email  Reports.csprojAssemblyReference.cache
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\obj\Debug\AIRT Email  Reports.csproj.ResolveComReference.cache
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\obj\Debug\AIRT Email  Reports.csproj.CoreCompileInputs.cache
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\obj\Debug\ScorecardComparison-Report.exe
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\obj\Debug\ScorecardComparison-Report.pdb
